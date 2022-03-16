@@ -5,11 +5,10 @@ Intended as a side project is a web application/platform where users can create 
 
 * Plans for deployment is set for the second quarter of 2022.
 
-### Snapshots (as of 03/09/22):
-
-
-<img width="1440" alt="Screen Shot 2022-03-09 at 4 00 19 PM" src="https://user-images.githubusercontent.com/58277229/157536189-0090e5ce-7c7c-4bee-8538-b5f63ae93b74.png">
-<img width="1440" alt="Screen Shot 2022-03-09 at 4 00 47 PM" src="https://user-images.githubusercontent.com/58277229/157536217-35b34729-f413-4eee-9e69-4f5df0e43124.png">
-<img width="1440" alt="Screen Shot 2022-03-09 at 4 00 54 PM" src="https://user-images.githubusercontent.com/58277229/157536231-d741bb40-a4fb-4fa6-a207-8ad502708513.png">
-<img width="1440" alt="Screen Shot 2022-03-09 at 4 01 37 PM" src="https://user-images.githubusercontent.com/58277229/157536237-53e10d3a-8b79-496e-8046-21c3d046f479.png">
-<img width="1440" alt="Screen Shot 2022-03-09 at 4 02 06 PM" src="https://user-images.githubusercontent.com/58277229/157536245-c88c0178-cbe6-4384-bbc8-c2b1ba3caa6a.png">
+### Snapshots (as of 03/16/22):
+<img width="1440" alt="Screen Shot 2022-03-16 at 6 02 29 PM" src="https://user-images.githubusercontent.com/58277229/158698939-17f40000-07fc-4f42-a675-8efdd5889641.png">
+<img width="1440" alt="Screen Shot 2022-03-16 at 6 02 37 PM" src="https://user-images.githubusercontent.com/58277229/158698946-9da9841e-8db5-4ddf-a286-cafa3e227b16.png">
+<img width="1440" alt="Screen Shot 2022-03-16 at 6 02 56 PM" src="https://user-images.githubusercontent.com/58277229/158698949-0faa3758-92fb-4430-804d-dc24f630c9a8.png">
+<img width="1440" alt="Screen Shot 2022-03-16 at 6 03 08 PM" src="https://user-images.githubusercontent.com/58277229/158698954-1016bb51-724c-445f-8025-5b93504ecfc4.png">
+<img width="1440" alt="Screen Shot 2022-03-16 at 6 03 15 PM" src="https://user-images.githubusercontent.com/58277229/158698960-6194bcf9-d545-478d-8fe8-f89b0628772a.png">
+<img width="1440" alt="Screen Shot 2022-03-16 at 6 03 22 PM" src="https://user-images.githubusercontent.com/58277229/158698964-be45af11-dc95-4dc3-a1e6-c6a773a51652.png">
