@@ -1,4 +1,4 @@
-# Ani.Me (In Development)
+# Ani.Mii (In Development)
 
 ### Project Description:
 Intended as a side project is a web application/platform where users can create and share their watchlists under the anime genre. We use [AniList's API](https://anilist.gitbook.io/anilist-apiv2-docs/) for outsourcing integral data entries and query requests. Our approach under the hood is not to provide users a database to retrieve anime metadata and content information such as Studio, First Aired, Cast details, etc but to give users a platform where they can simply create, organize, and manage their watchlists among interacting and connecting with others. As it is, this is an opinionated web application focusing on minimalism and user experience beyond anything else.
