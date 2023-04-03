@@ -17,7 +17,7 @@ Initially, my plan was to create a comprehensive web application that would incl
 
 ## Tech Stack
 
-**Client:** React, Material UI,
+**Client:** React, Material UI
 
 **Server:** Node, Express, Axios
 
