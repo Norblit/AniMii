@@ -1,11 +1,17 @@
-# Ani.Mii (In Development)
+# AniMii (In Development)
 
 ### Project Description:
-Intended as a side project is a web application/platform where users can create and share their watchlists under the anime genre. We use [AniList's API](https://anilist.gitbook.io/anilist-apiv2-docs/) for outsourcing integral data entries and query requests. Our approach under the hood is not to provide users a database to retrieve anime metadata and content information such as Studio, First Aired, Cast details, etc but to give users a platform where they can simply create, organize, and manage their watchlists among interacting and connecting with others. As it is, this is an opinionated web application focusing on minimalism and user experience beyond anything else.
+AniMii is a platform where users can create, organize, and share their watchlists within the large realm of anime. We use [AniList's API](https://anilist.gitbook.io/anilist-apiv2-docs/) for outsourcing integral data entries and query requests.
 
-### Snapshots (as of 04/11/22):
-<img width="1440" alt="Screen Shot 2022-04-11 at 5 29 55 PM" src="https://user-images.githubusercontent.com/58277229/162837364-26f326c1-2132-4b37-a1fe-78b888af39bf.png">
-<img width="1440" alt="Screen Shot 2022-04-11 at 5 30 14 PM" src="https://user-images.githubusercontent.com/58277229/162837381-926c664b-0697-4743-bd1c-d871e1aa7634.png">
-<img width="1440" alt="Screen Shot 2022-04-11 at 5 30 21 PM" src="https://user-images.githubusercontent.com/58277229/162837392-f72d3795-ce9a-4441-ab2e-3fb3435439f9.png">
-<img width="1440" alt="Screen Shot 2022-04-11 at 5 30 30 PM" src="https://user-images.githubusercontent.com/58277229/162837400-b26f32d1-8947-4169-be0b-27fa5635bd25.png"><img width="1440" alt="Screen Shot 2022-04-11 at 5 30 03 PM" src="https://user-images.githubusercontent.com/58277229/162837412-8643dfd8-ad16-4fd7-8184-7e6ece28ab4b.png">
+Designs were made with [Figma](https://www.figma.com/)
 
+Small Update: Initially, my plan was to create a comprehensive web application that would include features such as account management, database management, and industry-standard security protocols. However, due to the complexity and scale of the project, I have decided to simplify it to a client-side application. This decision was made in order to optimize my coding journey by working on multiple projects rather than solely focusing on this one. While I do plan to come back to this project to add these features in the future, for now, my primary goal is to release the application with its core functionalities. (School has also taken up a ton of my time but we'll get things rolling again!)
+
+### Snapshots (as of 04/03/23):
+<img width="1440" alt="Screenshot 2023-04-03 at 2 52 51 AM" src="https://user-images.githubusercontent.com/58277229/229434495-c062bcd3-433f-4dfe-afce-cda5e57efc47.png">
+<img width="1440" alt="Screenshot 2023-04-03 at 2 43 56 AM" src="https://user-images.githubusercontent.com/58277229/229434525-e0967001-582f-4863-bf8e-b3dafa7ba96a.png">
+<img width="1440" alt="Screenshot 2023-04-03 at 2 44 08 AM" src="https://user-images.githubusercontent.com/58277229/229434563-52031b74-7df6-4fe4-8cc3-5d3f87692f31.png">
+<img width="1440" alt="Screenshot 2023-04-03 at 2 53 37 AM" src="https://user-images.githubusercontent.com/58277229/229434582-912904d4-784f-4e32-87dc-cd64e27df5cd.png">
+<img width="1440" alt="Screenshot 2023-04-03 at 2 53 54 AM" src="https://user-images.githubusercontent.com/58277229/229434595-6fcae58e-b586-4e38-b2ef-1cbd1db776a2.png">
+<img width="1440" alt="Screenshot 2023-04-03 at 2 45 34 AM" src="https://user-images.githubusercontent.com/58277229/229434628-0f000378-34db-49f9-8bb8-dccf6caa9b5e.png">
+<img width="1440" alt="Screenshot 2023-04-03 at 2 49 40 AM" src="https://user-images.githubusercontent.com/58277229/229434649-0a9462a9-3e77-482f-892d-74dfee9aa13d.png">
